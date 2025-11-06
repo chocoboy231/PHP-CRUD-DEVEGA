@@ -120,6 +120,6 @@ try {
         <?php endif; ?>
     </table>
 
-    <a href="index.php" class="back-link">← Back to Homepage</a>
+    <a href="create.php" class="back-link">← Back to Homepage</a>
 </body>
 </html>

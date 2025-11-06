@@ -193,7 +193,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <input type="submit" value="Save Student">
     </form>
 
-    <a href="index.php">← Back to Homepage</a>
+    <a href="read.php">← View Students</a>
   </div>
 </body>
 </html>
